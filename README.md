@@ -6,7 +6,7 @@ AI-Powered Lead Capture & Conversion System
 
 ## What This Is
 
-EasyStream is a fully automated lead capture and conversion system that:
+This is a fully automated lead capture and conversion system that:
 
 - Responds to business enquiries **within 90 seconds** — 24 hours a day, 7 days a week
 - Uses **Claude AI** to read, classify, and write personalised responses
